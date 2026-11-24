@@ -1,6 +1,6 @@
 [package]
 name = "kalamos"
-version = "0.5.0"
+version = "0.6.0"
 description = "Kalamos — Typora-style WYSIWYM Markdown desktop editor"
 authors = ["Evan Lin"]
 edition = "2021"
